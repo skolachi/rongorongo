@@ -29,10 +29,10 @@ Statistics-
 | Type  | Number of examples |
 | ------------- | ------------- |
 | All inscriptions | 14653 |
-| Fully deciphered inscriptions | 7441 |
+| Fully identified inscriptions | 7441 |
 | Inscriptions with missing or doubtful symbols | 7212 |
 
-Fully deciphered inscriptions were used as training dataset. The Masked Language model can be used to fill missing and confirm doubtful signs. 
+Fully identified inscriptions were used as training dataset. The Masked Language model can be used to fill missing and confirm doubtful signs. 
 
 For the baseline model, I used some default parameters. Hyperparameter tuning is required to find the best model parameters.
 
